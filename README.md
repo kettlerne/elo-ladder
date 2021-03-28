@@ -13,7 +13,7 @@ It is described at http://www.bkgm.com/faq/Ratings.html.
 
 ## Getting involved
 The results of the ladder are automatically published at
-http://robhoes.github.io/elo-ladder.
+http://kettlerne.github.io/elo-ladder.
 
 Here you can also find instructions on adding yourself to the ladder and
 recording games that you have played.
